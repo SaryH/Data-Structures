@@ -1,0 +1,135 @@
+absent: missing
+adult: grownup
+annual: yearly
+ant: an insect
+applesauce: made when cooking apples
+assist: help
+attic: at the top of the house
+aunt: female relative
+auto: a form of transportation
+ballet: a form of dance
+banner: flag
+beehive: where bees make honey
+berry: a fruit
+bike: something you pedal to make its wheels move
+birdbath: bath for birds
+borrow: you get something
+boss: sary
+bothersome: annoying
+bravo: what an audience yells when they like the performance
+break: shatter
+bright: light
+bungalow: a small, one story house
+bury: to cover up
+bus: what some kids ride to school
+calf: a baby cow, elephant, or whale
+catfish: a fish with whiskers
+cellar: at the bottom of the house
+chipmunk: a small animal resembling a squirrel
+coast: land along the sea
+council: a group of people making plans
+counsel: to give advice
+creek: a smaller, moving body of water
+crosswalk: where you should cross street
+cub: a young bear, lion, or tiger
+cygnet: a young swan
+deep: many feet of water
+dim: not much light
+dinghy: a small boat
+dove: bird/past tense of dive
+drowsy: sleepy
+drum: something you hit to make sounds
+echoes: repeated sounds
+exam: a kind of test
+eyelid: protects your eye
+fawn: a baby deer
+feeble: weak
+feet: at  he end of our legs
+fern: a kind of plant
+fir: a kind of evergreen tree
+flexible: bends easily
+foal: a young horse or donkey
+foe: enemy
+frayed: worn
+freighter: a ship that carries cargo
+fur: covering of most animals
+furious: angry
+garage: a place to park cars
+geese: large birds that make honking sound
+glee: joy
+gosling: a baby goose
+gracious: polite
+grandchildren: children of your children
+hairbrush: what you use to brush hair
+halves: two equal parts
+helm: the wheel used for steering the ship
+hillside: steep, sloping land
+homework: assignment done at home
+host: one who gives the party
+ill: sick
+infant: baby
+joey: a baby kangaroo
+keyboard: part of a piano that you play
+kid: a young goat
+kindergarten: before 1st grade
+kit: a baby fox
+lab: where scientists do their research
+lead: to be at the beginning/a type of metal
+lend: to give something
+limb: a branch of a tree
+live: living/to dwell
+loft: a room just under the roof of a building
+loyal: faithful
+lunchtime: middle meal of the day
+lurk: wait
+mammoth: large
+math: the study of numbers, shapes, and measurements
+meadow: field
+mitt: what baseball players catch with
+moose: a large animal with antlers
+mysteries: things that are secret or hard to explain
+neat: tidy
+noodle: made of flour, water, and eggs
+orbit: circle
+overcast: cloudy
+oxen: large farm animals in the cattle family
+railroad: what trains travel on
+rainbow: a band of colors
+record: to write down/something important
+repair: fix
+reply: answer
+rigid: stiff
+rowboat: small boat  moved by rowing
+rude: not polite
+sandbox: where kids play with sand
+scorekeeper: someone who keeps score
+shallow: not much water
+sheep: animals whose fur is used for wool
+shiver: shudder
+shriek: a loud sound
+sketches: quick drawings
+sloppy: messy
+slosh: splash
+slumber: sleep
+spaceship: what an astronaut rides in
+springboard: flexible board to jump from
+stake: a stick that you hammer into ground
+stalk: stem
+steak: meat you eat
+student: xyz
+sturdy: strong
+sub: something that travels under water
+task: job
+threw: past tense of throw
+through: from here to there
+turtleneck: a long neck
+vacant: empty
+vast: huge
+voyage: trip
+wail: cry
+waterfall: when water drops over a cliff
+whale: a large animal living in the sea
+wild: untamed
+wind: air that moves/to turn
+yearn: to really long for something
+zoo: a place where animals are kept
